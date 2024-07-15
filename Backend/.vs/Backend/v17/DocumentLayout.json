@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|c:\\users\\apatel\\desktop\\angular\\crud\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|c:\\users\\apatel\\desktop\\angular\\crud\\backend\\backend\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|solutionrelative:backend\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|c:\\users\\apatel\\desktop\\angular\\crud\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|c:\\users\\apatel\\desktop\\angular\\crud\\backend\\backend\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|solutionrelative:backend\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|c:\\users\\apatel\\desktop\\angular\\crud\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB56B1D4-5F8D-4D24-9274-91DCFC347D3E}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Backend\\Data\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:48:22.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:39:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:22:22.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T11:55:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Backend\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\apatel\\Desktop\\Angular\\crud\\Backend\\Backend\\Model\\UserModel.cs",
+              "RelativeToolTip": "Backend\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:36:19.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<button [routerLink]="['addUser']" routerLinkActive="router-link-active" class="add-button">Add Post</button>
+
+<table class="user-table">
+    <thead>
+        <tr>
+            <th>UserName</th>
+            <th>Password</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let u of user">
+            <td>{{ u.userName }}</td>
+            <td>{{ u.password }}</td>
+            <td>
+                <a [routerLink]="['/update', u.userName]" class="edit-link">Edit</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
